@@ -5,6 +5,7 @@
 //cloaking system. To actually implement this, you would probably want to save the favicon 
 //and title with localStorage and load it when the page is loaded.
 const cloakImages = [//Favicon paths
+//change these to the paths of your favicon images
   "/assets/img/drive.png",
   "/assets/img/classroom.png",
   "/assets/img/docs.png",
