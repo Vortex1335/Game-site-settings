@@ -4,7 +4,7 @@
 //title and favicon if the user changes pages. This simply shows how you would create a 
 //cloaking system. To actually implement this, you would probably want to save the favicon 
 //and title with localStorage and load it when the page is loaded.
-const cloakImages = [
+const cloakImages = [//Favicon paths
   "/assets/img/drive.png",
   "/assets/img/classroom.png",
   "/assets/img/docs.png",
